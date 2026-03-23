@@ -1,0 +1,11 @@
+.env
+chat.txt
+messages.json
+voice_samples/
+voice_clips/
+voice_profile.pth
+venv/
+venv2/
+__pycache__/
+*.pyc
+*.png
